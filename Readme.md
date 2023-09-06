@@ -92,5 +92,5 @@ As a key member of the project team, I played a pivotal role in various aspects 
 
 2. Feature Engineering: I was actively involved in the process of selecting and creating relevant features from the raw data. This involved transforming and engineering variables that provided valuable insights into customer behavior. The feature engineering phase played a crucial role in improving the performance of machine learning models.
 
-3. Machine Learning Model Selection and Training: I undertook the task of identifying suitable machine learning models for customer segmentation. This process involved researching various algorithms, selecting those best suited to our dataset, and fine-tuning hyperparameters to optimize model performance. We selected and trained seven machine learning models, ensuring that each model was well-suited to the specific task of customer segmentation.
+3. Machine Learning Model Selection and Training: I undertook the task of identifying suitable machine learning models for customer segmentation. This process involved researching various algorithms, selecting those best suited to our dataset, and fine-tuning hyperparameters to optimize model performance.
 

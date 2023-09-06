@@ -1,0 +1,9 @@
+corrplot
+readr
+naniar
+ggplot2
+plotrix
+cluster
+factoextra
+fpc
+scatterplot3d
